@@ -1,6 +1,8 @@
+Uma alteração no início
+
 Uma linha antes...
 
-Nossa primeira alteração no arquivo
+Estou na master
 
 Outra alteração para comparar commits
 
@@ -8,6 +10,6 @@ Uma linha depois...
 
 Uma nova alteração para comparar commits
 
-Alteração para o Stash
+Alteração para o Stashx
 
 Esta linha originou-se na branch develop...
