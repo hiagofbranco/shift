@@ -1,6 +1,6 @@
 Uma alteração no início
 
-Uma linha antes...
+Uma linha antes...-
 
 Estou na master
 
