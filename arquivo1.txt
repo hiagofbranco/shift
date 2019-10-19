@@ -6,7 +6,7 @@ Estou na master
 
 Alteração na develop
 
-Uma linha depois...*
+Uma linha depois...*!
 
 Uma nova alteração para comparar commits
 
